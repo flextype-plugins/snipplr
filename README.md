@@ -11,7 +11,7 @@ Snipplr plugin for quick embedding [Snipplr](http://snipplr.com/) snippets.
 3. Save your changes.
 
 Example:
-```
+```yaml
 ...
 plugins:
   - snipplr
