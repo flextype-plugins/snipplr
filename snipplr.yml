@@ -1,0 +1,13 @@
+name: Snipplr
+version: 1.0.0
+description: "Plugin for quick embedding Snipplr snippets."
+author:
+  name: Sergey Romanenko
+  email: awilum@yandex.ru
+  url: http://flextype.org
+homepage: https://github.com/flextype-plugins/snipplr
+bugs: https://github.com/flextype-plugins/snipplr/issues
+license: MIT
+
+# Plugin settings
+enabled: true
